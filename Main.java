@@ -36,4 +36,7 @@ public class Main {
 
     //S(n)= n + 4+ + 2
     //S(n)= n + 6
+
+    // Mejor caso: 1 comparación (cuando el valor está en la primera posición).
+    // Peor caso: n comparaciones (cuando el valor está en la última posición o no está en el arreglo).
 }
